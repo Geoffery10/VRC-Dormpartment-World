@@ -1,9 +1,8 @@
 fileFormatVersion: 2
-guid: 7eda280bea860094293c3740fe92d456
+guid: 6d18f7a5c590adc4186ea2f5a6346a42
 labels:
 - Editor
-folderAsset: yes
-DefaultImporter:
+TextScriptImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
