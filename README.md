@@ -11,7 +11,7 @@ VRChat World of my old SIUC Dorm
 
 
 ## Getting Started
-View World on VRChat: https://vrchat.com/home/launch?worldId=wrld_f6595543-88fe-4dee-ac4e-4fb48e4fb753 
+View World on VRChat: https://vrchat.com/home/launch?worldId=wrld_7a2b7aba-8c69-4e64-9741-dbf143b6be6d
 
 ## License
 This project is owned by Geoffery10 and any unauthorized coping or redistribution is against my terms.
