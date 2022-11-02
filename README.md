@@ -1,6 +1,5 @@
- <p align="center">
-<img align="center" src="https://github.com/Geoffery10/VRC-Dormpartment-World/blob/main/Assets/images/VRChat_1920x1080_2021-08-20_23-01-20.752.png?raw=true">
-</p>
+![image](https://user-images.githubusercontent.com/43981091/199560354-74a68d49-141b-4a29-bfdb-a26e94346a4b.png)
+
 
 # VRC Dormpartment World
 VRChat World of my old SIUC Dorm
